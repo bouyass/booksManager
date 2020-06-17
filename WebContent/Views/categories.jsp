@@ -1,0 +1,37 @@
+<div class="container-fluid">
+  <div class="row">
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"> <div class="images"><img src="https://www.actualitte.com/images/actualites/images/septembre/books-by-women.jpg"></div>
+    <div class="card-body"><!--Title--><h6 class="card-title">Educational books</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://images-na.ssl-images-amazon.com/images/I/51QfdX1BLZL._SX354_BO1,204,203,200_.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Action and Adventure</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://www.chatelaine.com/wp-content/uploads/2019/02/romance-books-2019_feature.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Classic</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://5.imimg.com/data5/HH/VP/MY-4030281/education-book-printing-500x500.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Anthology</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+  </div>
+  <br>
+   <div class="row">
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"> <div class="images"><img src="https://static.lpnt.fr/images/2017/12/19/12590951lpw-12599052-article-jpg_4854206_980x426.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Humour</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://www.windsorlibrary.com/wp-content/uploads/2019/12/used-books-store-2.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Drama</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://passionmlb.com/wp-content/uploads/2020/03/passionmlb.com-mes-livres-de-baseball-en-attendant-le-retour-du-sport-2020-03-20_16-23-44_535936.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Fantasy</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://cdn.shopify.com/s/files/1/1530/5079/files/dobooks_bandeau.jpg?v=1583770977"></div><div class="card-body"><!--Title--><h6 class="card-title">Educational books</h6><a href="#" class="btn btn-dark">Fiction</a></div></div>
+  </div>
+  <br>
+   <div class="row">
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"> <div class="images"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcf0OB1u1QNa2rNtcKLYtxsJch42FKAkOAzHMPbPYvGkFlYXSp&usqp=CAU"></div><div class="card-body"><!--Title--><h6 class="card-title">Horor</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://zookasbooks.com/wp-content/uploads/2015/12/IMG_5924_DxO-1024x478.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Historical</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://statics.lesinrocks.com/content/uploads/2016/05/books.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Legend</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwfoOy7hKqmS-KAA-6newrH15V-1R7W_xsR1e8UXfgtaiQ7wnj&usqp=CAU"></div><div class="card-body"><!--Title--><h6 class="card-title">Romance</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+  </div>
+  <br>
+   <div class="row">
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"> <div class="images"><img src="https://images.squarespace-cdn.com/content/v1/53066937e4b0d4022ddc5129/1550691099591-OB2J60YXSYSDF87SGNBY/ke17ZwdGBToddI8pDm48kBx2dfLI9fqedJZoUb_1JPxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIEE9r6rLOAY89GyJ7xoFiqb68tufSwTNUmybh8kpc_k0KMshLAGzx4R3EDFOm1kBS/books2.jpg?format=2500w"></div><div class="card-body"><!--Title--><h6 class="card-title">Suspense/Thriller</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbaEyuCZTq1bgudcENzuQq2xD8--IZeiHUEogElOeIOcIEistZ&usqp=CAU"></div><div class="card-body"><!--Title--><h6 class="card-title">Mythology</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://images.unsplash.com/photo-1491841651911-c44c30c34548?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"></div><div class="card-body"><!--Title--><h6 class="card-title">Crime and detective</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://www.gstatic.com/bfe/apps/website/img/h/108033383-bookshelf-zoom-1440.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Fable</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+  </div>
+  <br>
+   <div class="row">
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"> <div class="images"><img src="https://www.marj3.com/wp-content/uploads/2019/10/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%85%D9%86%D8%AD.jpg"></div><div class="card-body"><!--Title--><h6 class="card-title">Comic and Graphic novel</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeAmouI351a2qHVhc7f2WDlW5o0M80T5KUlm3SJ_7etLJBwHEz&usqp=CAU"></div><div class="card-body"><!--Title--><h6 class="card-title">Mystery</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9-quFwhWkr8zSkeppwffHPhThTqBwOiWlwVqH4zYj4q_rVWsq&usqp=CAU"></div><div class="card-body"><!--Title--><h6 class="card-title">Poetry</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+    <div style="margin-left:15px;background-color:#d6d4d3;" class="col"><div class="images"><img src="https://www.northcentralcollege.edu/sites/default/files/styles/teaser_medium/public/2018-10/shimer_books_cover.jpg?h=5ea206a5&itok=ZAzo02sh"></div><div class="card-body"><!--Title--><h6 class="card-title">Reference Books</h6><a href="#" class="btn btn-dark">Take a look</a></div></div>
+  </div>
+</div>

@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+   <class name = "booksManager.com.Entities.User" table = "user">
+      
+      <meta attribute = "class-description">
+         This class contains the employee detail. 
+      </meta>
+      
+      <id name = "id" type = "int" column = "iduser">
+         <generator class="native"/>
+      </id>
+      <property name = "nom" column = "nom" type = "string"/>
+      <property name = "prenom" column = "prenom" type = "string"/>
+      <property name = "pseudo" column = "pseudo" type = "string"/>
+      <property name = "mdp" column = "mdp" type = "string"/>
+      <property name = "date_naissance" column = "date_naissance" type = "date"/>
+      <property name="email" column="email" type="string"/>
+      <property name = "role" column = "role" type = "string"/>
+   </class>
+   
+   <class name = "booksManager.com.Entities.Book" table = "book">
+      
+      <meta attribute = "class-description">
+         This class contains the employee detail. 
+      </meta>
+      
+      <id name = "id" type = "int" column = "idbook">
+         <generator class="native"/>
+      </id>
+      <property name = "title" column = "title" type = "string"/>
+      <property name = "categorie" column = "categorie" type = "string"/>
+      <property name = "author" column = "auteur" type = "string"/>
+      <property name = "date_sortie" column = "date_sortie" type = "date"/>
+      <property name = "description" column = "description" type = "string"/>
+      <property name="reference" column="reference" type="string"/>
+      <property name="numero" column="numero" type="string"/>
+      <property name="link" column="link" type="string"/>
+   </class>
+   
+   
+</hibernate-mapping>

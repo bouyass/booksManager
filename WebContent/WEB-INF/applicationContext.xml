@@ -1,0 +1,32 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	
+
+	<bean id="userDao" class="booksManager.com.DAO.UserDaoImpl"></bean>
+	<bean id="user" class="booksManager.com.Entities.User"></bean>
+	<bean id="book" class="booksManager.com.Entities.Book"></bean>
+	
+	
+	
+	<bean id="loginService"
+		class="booksManager.com.Services.AuthenticationService.LoginServiceImpl">
+		<property name="userDaoImpl" ref="userDao"></property>
+	</bean>
+	<bean id="registration"
+		class="booksManager.com.Services.register.Register">
+		<property name="userDaoImpl" ref="userDao"></property>
+	</bean>
+	<bean id="loginController"
+		class="booksManager.com.Controllers.LoginController">
+		<property name="loginService" ref="loginService"></property>
+	</bean>
+	
+	<bean id="adminController"
+		class="booksManager.com.Controllers.AdminController">
+		<property name="registration" ref="registration"></property>
+	</bean>
+
+</beans> 

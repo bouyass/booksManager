@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="booksManager.com.Test.View.MainApp">
+   <children>
+      <SplitPane dividerPositions="0.2756892230576441" prefHeight="600.0" prefWidth="800.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Label layoutX="56.0" layoutY="192.0" text="Successful login test" />
+                  <Label layoutX="56.0" layoutY="132.0" text="Failed login test" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="598.0" prefWidth="644.0">
+               <children>
+                  <SplitPane dividerPositions="0.41778523489932884" layoutX="45.0" layoutY="132.0" orientation="VERTICAL" prefHeight="598.0" prefWidth="574.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <items>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="244.0" prefWidth="572.0">
+                           <children>
+                              <Label layoutX="223.0" layoutY="22.0" text="Données" AnchorPane.bottomAnchor="385.0" AnchorPane.leftAnchor="56.0" AnchorPane.rightAnchor="26.0" AnchorPane.topAnchor="192.0">
+                                 <font>
+                                    <Font name="System Bold" size="31.0" />
+                                 </font>
+                              </Label>
+                              <TextField layoutX="214.0" layoutY="96.0" prefHeight="31.0" prefWidth="202.0" />
+                              <TextField layoutX="214.0" layoutY="148.0" prefHeight="31.0" prefWidth="202.0" />
+                              <Label layoutX="90.0" layoutY="96.0" text="Pseudo:">
+                                 <font>
+                                    <Font size="22.0" />
+                                 </font>
+                              </Label>
+                              <Label layoutX="90.0" layoutY="148.0" text="Password:">
+                                 <font>
+                                    <Font size="21.0" />
+                                 </font>
+                              </Label>
+                              <Button layoutX="214.0" layoutY="193.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="92.0" text="Set values" />
+                              <Button fx:id="runFailedLogin" layoutX="318.0" layoutY="193.0" mnemonicParsing="false" onAction="#executeFailedLoginTest" prefHeight="31.0" prefWidth="98.0" text="Run test" />
+                           </children>
+                        </AnchorPane>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="328.0" prefWidth="572.0">
+                           <children>
+                              <TextFlow fx:id="display" layoutX="14.0" layoutY="14.0" prefHeight="319.0" prefWidth="534.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="14.0" />
+                           </children>
+                        </AnchorPane>
+                    </items>
+                  </SplitPane>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
